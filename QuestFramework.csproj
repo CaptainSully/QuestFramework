@@ -2,7 +2,7 @@
   <PropertyGroup>
     <AssemblyName>QuestFramework</AssemblyName>
     <RootNamespace>QuestFramework</RootNamespace>
-    <Version>1.4.1-beta</Version>
+    <Version>1.4.1-unofficial.1-CaptainSully</Version>
     <TargetFramework>net5.0</TargetFramework>
     <Platforms>AnyCPU;x64</Platforms>
     <PlatformTarget>AnyCPU</PlatformTarget>
